@@ -1,4 +1,4 @@
-var dinheiroTotal = 200000.00
+var dinheiroTotal = 200.00
 
 var suplements = new Array() //quantidade
 		//ingredientes padão
